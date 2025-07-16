@@ -1,0 +1,12 @@
+# Este programa solicita dos números al usuario, los convierte a valores booleanos y realiza operaciones lógicas.
+dato1 = bool(input('Dime un numero: '))
+dato2 = bool(input('Dime otro numero: '))
+print(f"El primer dato es: {dato1} y el segundo dato es: {dato2}")
+print(f"El resultado de la conjunción es: {dato1 and dato2}")
+print(f"El resultado de la disyunción es: {dato1 or dato2}")
+print(f"El resultado de la negación del primer dato es: {not dato1}")
+print(f"El resultado de la negación del segundo dato es: {not dato2}")
+print(f"El resultado de la negación de ambos datos es: {not (dato1 and dato2)}")
+print()
+operacion = bool(17834/34 > 87*56)
+print(operacion)
