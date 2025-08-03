@@ -8,7 +8,7 @@ Registrar de forma progresiva los conceptos aprendidos en Python, incluyendo teo
 
 ## 🧰 Tecnologías utilizadas
 
-- Lenguaje: **Python 3**
+- Lenguaje: **Python 3.13.5**
 - Editor: Visual Studio Code / Jupyter Notebook (según el caso)
 - Librerías: Python estándar (hasta ahora sin uso de librerías externas)
 
