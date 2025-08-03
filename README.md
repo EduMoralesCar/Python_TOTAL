@@ -9,8 +9,8 @@ Registrar de forma progresiva los conceptos aprendidos en Python, incluyendo teo
 ## 🧰 Tecnologías utilizadas
 
 - Lenguaje: **Python 3.13.5**
-- Editor: **PyCharm 2025.1.3.1** y **Jupyter Notebook** mediante **Anaconda**
-
+- Editor: **PyCharm 2025.1.3.1**
+- Extra: **Jupyter Notebook** mediante **Anaconda**
 
 ## 📁 Estructura del proyecto
 
