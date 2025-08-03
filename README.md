@@ -1,1 +1,1 @@
-** Clases de Python Total con clss
+Clases de Python Total con clases
