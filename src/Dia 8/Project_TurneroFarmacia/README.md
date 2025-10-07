@@ -61,8 +61,11 @@ Contiene la lógica de interacción:
 Ejemplo de flujo:
 
 Seleccione el área (1/2/3): 2 
-Su turno es: P-3 
+<br>
+Su turno es: P-3
+<br>
 Aguarde y será atendido.
+<br>
 ¿Desea sacar otro turno? (s/n): s
 
 ---
