@@ -27,12 +27,80 @@
 
 ```
 Python_TOTAL/
-│
-├── ejercicios/
-├── teoria/
-├── proyectos/
-├── scripts/
-└── recursos/
+├── 📁 src/
+│   ├── 📁 Dia 1/
+│   ├── 📁 Dia 2/
+│   ├── 📁 Dia 3/
+│   ├── 📁 Dia 4/
+│   ├── 📁 Dia 5/
+│   ├── 📁 Dia 6/
+│   ├── 📁 Dia 7/
+│   ├── 📁 Dia 8/
+│   └── 📁 UTP/
+│       ├── 📁 Seccion 1/
+│       │   ├── 🐍 01-IntruccionesBasicas.py
+│       │   ├── 🐍 02-EstrucuturaControl.py
+│       │   ├── 📝 Intro-Python.md
+│       │   ├── 📕 Material Sesión 01 - Python.pdf
+│       │   ├── 🐍 ejercicio01_variables.py
+│       │   ├── 🐍 ejercicio02_listas.py
+│       │   ├── 🐍 ejercicio03_diccionarios.py
+│       │   ├── 🐍 ejercicio04_condicionales.py
+│       │   └── 🐍 ejercicio_propuesto_s1.py
+│       ├── 📁 Seccion 2/
+│       │   ├── 🐍 01-Funciones.py
+│       │   ├── 🐍 02-interaccionFunciones.py
+│       │   ├── 🐍 03-POO.py
+│       │   ├── 🐍 04-Ejercicio01.py
+│       │   ├── 🐍 05-Ejercicio02.py
+│       │   ├── 🐍 06-Ejercicio03_pares_en_lista.py
+│       │   ├── 🐍 07-Ejercicio04_area.py
+│       │   ├── 🐍 08-Ejercicio05_clase_persona.py
+│       │   ├── 🐍 09-Ejercicio_propuesto_s2.py
+│       │   └── 📕 Material Sesión 02 - Python.pdf
+│       ├── 📁 Seccion 3/
+│       │   ├── 📁 TareaSeccion/
+│       │   │   ├── 📁 __pycache__/ 🚫 (auto-hidden)
+│       │   │   ├── 🐍 app_productos.py
+│       │   │   ├── 🐍 clase_gestor_productos.py
+│       │   │   └── 🐍 clase_producto.py
+│       │   ├── 🐍 01-Herencia.py
+│       │   ├── 🐍 02-Encapsulamiento.py
+│       │   ├── 🐍 03-app_clases.py
+│       │   ├── 📕 Material Sesión 03 - Python.pdf
+│       │   ├── 🐍 clase_estudiante.py
+│       │   └── 🐍 clase_persona.py
+│       ├── 📁 Seccion 4/
+│       │   ├── 📁 Numpy/
+│       │   │   ├── 🐍 Main.py
+│       │   │   ├── 🐍 OperacionMatriz.py
+│       │   │   ├── 🐍 OperacionesMatematicas.py
+│       │   │   ├── 🐍 ejer01_array_numpy.py
+│       │   │   └── 🐍 ejer02_matriz_numpy.py
+│       │   ├── 📁 Panda/
+│       │   │   ├── 🐍 DataFrames.py
+│       │   │   ├── 🐍 Main.py
+│       │   │   ├── 🐍 ManipulacionDataFrames.py
+│       │   │   ├── 📄 contactos.csv
+│       │   │   ├── 🐍 ejer03_dataframe_pandas.py
+│       │   │   ├── 🐍 ejer04_oper_col_dataframe_pandas.py
+│       │   │   ├── 🐍 ejercicio_propuesto.py
+│       │   │   └── 📄 sismos.csv
+│       │   └── 📕 Material Sesión 04 - Python.pdf
+│       └── 📁 Seccion 5/
+│           ├── 📁 caso_mi_vivienda/
+│           │   ├── 📄 mivivienda.csv
+│           │   └── 🐍 mivivienda.py
+│           ├── 📁 caso_ventas/
+│           │   ├── 📝 caso_ventas.md
+│           │   ├── 🐍 caso_ventas.py
+│           │   ├── 📄 ventas.csv
+│           │   └── 📄 ventas_original.csv
+│           ├── 📕 Material Sesión 05 - Python.pdf
+│           ├── 🐍 draft_pandas.py
+│           ├── 📄 empleados.csv
+│           └── 🐍 practica_analisis_datos.py
+└── 📖 README.md
 ```
 *(La estructura puede variar según las actualizaciones)*
 
