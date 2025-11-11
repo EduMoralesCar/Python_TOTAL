@@ -40,10 +40,10 @@ Python_TOTAL/
 │       ├── 📁 Seccion 1
 │       ├── 📁 Seccion 2
 │       ├── 📁 Seccion 3
-│       │   ├── 📁 TareaSeccion
+│       │   └── 📁 TareaSeccion
 │       ├── 📁 Seccion 4
 │       │   ├── 📁 Numpy
-│       │   ├── 📁 Panda
+│       │   └── 📁 Panda
 │       └── 📁 Seccion 5
 │           ├── 📁 caso_mi_vivienda
 │           └── 📁 caso_ventas
