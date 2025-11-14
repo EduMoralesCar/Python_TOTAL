@@ -7,9 +7,6 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-# 
-
-# 🚀 Descripción
 
 **Python_TOTAL** es un repositorio dedicado al aprendizaje y práctica de Python, abarcando desde conceptos básicos hasta avanzados. Aquí encontrarás ejercicios, ejemplos, proyectos y recursos para mejorar tus habilidades como desarrollador Python.
 
