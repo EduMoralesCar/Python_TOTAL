@@ -1,16 +1,9 @@
-# <p align="center">🚀 Python</p>
+# <p align="center">🚀 Python TOTAL</p>
 
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&width=800&lines=Python+TOTAL+2025+%7C)
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&width=800&lines=Python+TOTAL+2025+%7C+Apredizaje+y+Recursos)
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" width="120">
-</p>
-
-<p align="center">
-  <b>¡Bienvenido a Python_TOTAL!</b>
-</p>
 
 # 🚀 Descripción
 
