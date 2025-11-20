@@ -8,7 +8,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-**Python_TOTAL** es un repositorio dedicado al aprendizaje y práctica de Python, abarcando desde conceptos básicos hasta avanzados. Aquí encontrarás ejercicios, ejemplos, proyectos y recursos para mejorar tus habilidades como desarrollador Python.
+**PythonTOTAL** es un repositorio dedicado al aprendizaje y práctica de Python, abarcando desde conceptos básicos hasta avanzados. Aquí encontrarás ejercicios, ejemplos, proyectos y recursos para mejorar tus habilidades como desarrollador Python.
 
 ---
 
@@ -25,7 +25,7 @@
 # 🏗️ Estructura del Repositorio
 
 ```
-Python_TOTAL/
+PythonTOTAL/
 ├── 📁 src/
 │   ├── 📁 Dia 1
 │   ├── 📁 Dia 2
