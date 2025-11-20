@@ -39,13 +39,9 @@ PythonTOTAL/
 │       ├── 📁 Seccion 1
 │       ├── 📁 Seccion 2
 │       ├── 📁 Seccion 3
-│       │   └── 📁 TareaSeccion
 │       ├── 📁 Seccion 4
-│       │   ├── 📁 Numpy
-│       │   └── 📁 Panda
 │       └── 📁 Seccion 5
-│           ├── 📁 caso_mi_vivienda
-│           └── 📁 caso_ventas
+
 └── 📖 README.md
 ```
 *(La estructura puede variar según las actualizaciones)*
